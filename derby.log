@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 16 16:15:42 EST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0184-824c-32cb-000001c3ca00 
+on database directory memory:C:\Users\Alexander\eclipse-workspace\alex-foodmenuapi\819f7ed8-681a-450f-84ca-eacb78eb164d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/Alexander/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18.0.2+9-61
+user.dir=C:\Users\Alexander\eclipse-workspace\alex-foodmenuapi
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
